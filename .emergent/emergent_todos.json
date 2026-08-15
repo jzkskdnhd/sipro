@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Pemulihan repo + env + dependensi, aplikasi hidup lagi (login & preview OK)",
+    "status": "completed"
+  },
+  {
+    "content": "Perbaiki 2 gate merah pasca-restore (build_policies kosong, laporan mingguan belum ada) → 13 gates PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33a — Model & mesin: opname.py, models_p33.py, reference_p33.py, index spk_scope_items, seed_phase33.py",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33b — Endpoint & guard: spk_scope_router, termin berbasis baris, guard progress_pct manual, /boq/steps + /boq/control",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33c — POC scripts/poc_33.py 66 PASS / 0 FAIL (INV-33-1..8 + tie-out AP/retensi + RBAC + regresi lump-sum)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33d — Frontend: SpkScopeSection, AddScopeItemsDialog, ClaimOpnameSheet, SubmitClaimDialog dirombak, CostControlPanel, BoQStepMapDialog, nilai borongan di kartu item konstruksi",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33e — Gate scripts/verify_33.py 50/50 + run_all_gates OVERALL PASS (14 gates), poc_31/32 tanpa regresi",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 33 — End to End Testing pakai testing_agent_v3 (10 user story) + perbaiki semua temuan",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 33 — Update plan.md + CODEBASE_MAP setelah testing selesai",
+    "status": "pending"
+  }
+]
